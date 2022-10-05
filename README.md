@@ -1,4 +1,4 @@
-# simpleBolgApp
+# simpleBlogApp
 This is simple blog app where you can add posts, edit them, delete, add images and delete them.
 Login page, register page, and common blog feature.
 
